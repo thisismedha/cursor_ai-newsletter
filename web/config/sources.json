@@ -1,0 +1,22 @@
+{
+  "rss": [
+    {
+      "id": "techcrunch-ai",
+      "name": "TechCrunch AI",
+      "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+      "tier": "tier2"
+    },
+    {
+      "id": "import-ai",
+      "name": "Import AI (Jack Clark)",
+      "url": "https://importai.substack.com/feed",
+      "tier": "tier2"
+    },
+    {
+      "id": "the-verge-ai",
+      "name": "The Verge AI",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "tier": "tier1"
+    }
+  ]
+}
